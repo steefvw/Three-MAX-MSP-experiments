@@ -1,6 +1,7 @@
 # Three-MAX-MSP-experiments
 Final Project for Programming MAX: Structuring interactive software for digital arts @ Kadenze &amp; Stanford. 
 
+
 <b>Three experiments:</b>
 
 1. note and motif analysis and auto-playback; 
@@ -8,6 +9,7 @@ Final Project for Programming MAX: Structuring interactive software for digital 
 2. note-repeat with control over voices, delay time and intervals; 
 
 3. rhythm timing within a gen~ patch. 2016 Steef van Winkel
+
 
 <b>Videos:</b>
 
