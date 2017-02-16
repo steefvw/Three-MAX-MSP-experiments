@@ -1,4 +1,4 @@
-# Three-MAX-MSP-experiments
+# Three MAX/MSP experiments
 Final Project for Programming MAX: Structuring interactive software for digital arts @ Kadenze &amp; Stanford. 
 
 
